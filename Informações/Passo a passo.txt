@@ -1,0 +1,93 @@
+Mixagem: Esclarecendo
+Antes de tudo, você tem que entender o que é mixagem para depois confrontar o processo em si. Uma música é produzida ou gravada em múltiplas faixas. Faixas podem vir transferidas de microfones diferentes ou de faixas adicionais acrescentadas no computador, como instrumentos virtuais.
+
+Essas faixas são os componentes que criam uma música completa. Cada faixa geralmente representa uma transmissão de microfone ou um instrumento. Por exemplo, se você tiver 10 microfones gravando uma banda, vão ser necessárias 10 faixas no seu DAW. A mixagem é a mesclagem de todas as faixas diferentes, junto dos efeitos e processamento para fazer uma música finalizada. O resultado final é um arquivo estéreo de duas faixas.
+
+A mixagem consiste no seguinte:
+
+Ajuste de volume e EQ para que cada instrumento seja ouvido.
+Uso de “panning” para fazer o som dos instrumentos saírem do alto falante esquerdo ou direito.
+Silenciamento ou remoção de algumas faixas.
+Adição de efeitos como reverb ou delay.
+Adição de efeitos dinâmicos como compressores ou gates.
+Essa é uma panorâmica básica. No entanto, dá uma ideia dos princípios da mixagem. Seu objetivo deve ser transformar o áudio cru em algo lustrado, de som claro e profissional.
+
+
+
+
+A Cadeia de Produção Musical
+Ajuda saber onde na cadeia de produção fica a mixagem. Os passos para produzir uma música são os seguintes:
+
+Composição. Primeiro, escrever a música. Você provavelmente fará isso usando instrumentos. Algumas pessoas escrevem músicas com o DAW.
+Pré-produção. Aperfeiçoar suas ideias e deixar a música pronta para ser gravada. Isso pode incluir gravações demo.
+Gravação. O processo de gravação dos instrumentos. Você pode dispor cada som em camadas ou gravar tudo junto.
+Edição. Cortar coisas que não precisam estar lá, reorganizando partes da música e mais. Afinar os vocais, editar a bateria no tempo certo.
+Mixagem. É aqui que fica a mixagem no processo.
+Masterização. Você vai mandar a música para um profissional de masterização. Eles a limpam mais uma vez, maximizando o volume e ajustando a EQ para deixar a música pronta para ser tocada.
+Distribuição. Finalmente, temos a distribuição – mostrar sua música ao mundo!
+Algumas pessoas pensam que a mixagem é o último passo. Esse realmente não é o caso. Depois da mixagem, a música precisa ser masterizada. Pense nisso como a renderização final. Deixar o arquivo final perfeito, pronto para ser ouvido.
+
+O Que Eu Preciso Saber Sobre Masterização?
+Você geralmente fará sua masterização em um estúdio diferente. Esses estúdios usam o mixdown final de duas faixas da sua música. Engenheiros de masterização não têm acesso a projetos de muitas faixas. Eles trabalham exclusivamente com o mixdown final dos canais esquerdo e direito.
+
+A masterização pode incluir a compressão da música para maximizar o volume. Além disso, engenheiros de masterização usam o EQ para equilibrar o som da música e prepará-la para o meio em que será reproduzida. Essas dicas mostram algumas outras coisas que engenheiros de masterização fazem quando estão finalizando o mix.
+
+Por Que Aprender a Mixar?
+Muitos músicos fazem o mix da própria música. A gravação caseira está ficando cada vez mais popular. Equipamentos são acessíveis, o tratamento acústico não precisa ser muito complicado. O resultado é que mais pessoas precisam saber como mixar sua música.
+
+Este artigo super esclarecedor mostra alguns artistas que gravam o próprio som. Não faz muito sentido gravar a própria música e depois enviá-la para outra pessoa mixar. A mixagem é uma boa habilidade de ter como música, mas pode mudar toda a sua prática de composição. Saber o que é necessário, ou o que pode ser feito no mix pode mudar para melhor seu modo de escrever e pré-produzir música.
+
+O Que Você Precisa Para Mixar
+mesa de mixagem e equipamento
+
+A imagem estereotipada da mixagem envolve o uso de uma mesa de som. Uma mesa de som ajuda, mas não é tão essencial se você tem os arquivos de áudio. Então do que você precisa para mixar?
+
+Quanto ao equipamento, você precisará de:
+
+Um computador capaz de rodar software de música.
+DAW (digital audio workstation). Esta será sua plataforma central e interface para mixagem.
+Plugins de áudio. Efeitos como EQ, reverb e compressores podem ter que ser usados. Alguns DAWs incluem esses elementos.
+Monitores e fones de ouvido. E não, um não substitui o outro.
+Além disso, você precisa da sua gravação. As várias faixas da gravação, também conhecidas como “stems”, podem ser usadas para criar o seu mix. Finalmente, você precisa de uma faixa de referência (um mix parecido com o que você quer criar) e de seus ouvidos!
+
+Passos Para Mixar Sua Música
+Além de saber quais equipamentos são necessários, e saber o que é uma mixagem, você precisa saber como abordá-la. Alguns aspectos da mixagem são universalmente necessários, outros dependem de gosto pessoal. Você desenvolverá seu próprio fluxo de trabalho com o tempo. Primeiro, tente entender a música e os instrumentos usados. Saber como mixar cada instrumento individualmente envolve saber como o instrumento funciona e quais frequências ele abrange. No entanto, as dicas que mencionaremos ajudarão bastante na mixagem.
+
+Referência
+Primeiro, se acostume com o tipo de som que você quer criar e o som de seu equipamento. Seu equipamento terá uma certa resposta de frequência. Ouça música usando fone de ouvido e monitores. Quando você estiver acostumado com o som, você saberá o que ter como objetivo.
+
+As músicas que você deve ouvir antes da mixagem são aquelas que são similares àquilo que você quer criar. Você pode começar copiando a curva EQ, volume e compressão para obter resultados similares.
+
+Curva EQ 
+
+Naturalmente, sua música não vai automaticamente ficar tão boa quanto sua referência. No entanto, você desenvolverá conhecimento tentando replicar um tipo de som específico.
+
+A Mixagem Tradicional
+O método tradicional de mixagem envolve se afastar bastanter de 0 dB. O indicador de 0 dB no seu mixer ou DAW é útil. Se a faixa estiver subindo muito além disso, pode começar a se distorcer.
+
+O método tradicional é deixar “headroom”. Isso significa deixar todas as faixas bem abaixo de 0 dB. Pense no marcador de -14 dB no seu mixer como sendo 0 dB. Não deixe muita coisa passar de -14 dB em volume. Você pode deixar que alguns picos passem desse ponto, mas, ao todo, deixe as coisas mais silenciosas, evitando que os picos vâo além de -14 dB. O headroom dá mais espaço para o seu engenheiro de masterização colocar EQ e compressão. O resultado final será bem melhor.
+
+Dica do Magroove: É sempre bom deixar o snare e kick drums mais altos no mix que você deixaria. O volume deles sempre abaixa durante o processo de masterização por causa da compressão. Então, deixe-os um pouco altos e o produto final estará na medida certa.
+
+A Mixagem Moderna
+DAWs modernos podem ser usados para mixar de um jeito mais moderno. Usando um limiter no master bus (a coleção de todas as faixas) deixa tudo perto de 0 dB, mas evita que passe disso.
+
+O resultado de usar esse método é que o volume será mais alto. No entanto, se você está pensando em enviar para um engenheiro de masterização, então não precisa se preocupar. Ele vai aumentar o volume o quanto possível sem distorcer (então não faça isso).
+
+Se você já ouviu falar da loudness war, você sabe que mixagem e masterização também são objeto de debate. Nosso conselho é pecar por precaução. Corte, ao invés de aumentar, e deixe espaço para seu engenheiro de masterização para não haver risco de distorção.
+
+O Processo de Mixagem
+Como já mencionamos, você vai desenvolver seu próprio ritmo de trabalho com o tempo. No entanto, você deve seguir esses passos estabelecidos para começar com o que já foi tentado e testado. Os passos seguintes são um bom começo.
+
+Passos Para Mixagem
+Ouça a música algumas vezes. Se familiarize com ela. Se não for sua própria música, isso é ainda mais importante.
+Equilibre os volumes. Se todos os faders estiverem em 0 dB e seu master bus estiver com problema de clipping, coloque todos os faders em -10 dB e comece aí. Deixe-os ainda mais baixos se precisar. A partir desse ponto, comece a equilibrar os volumes.
+Use o pan dentro da sua faixa. Panning é o ato de colocar algumas coisas no canal esquerdo do mix e outras no canal direito. É dito o que é tocado igualmente nos dois canais fica “no centro”. Pense na sua faixa como tendo espectro total da esquerda para a direita. O panning ajuda os instrumentos que atravessam o mix para que todos os instrumentos possam ser ouvidos adequadamente. Este guia vai te ajudar a entender isso melhor.
+Coloque gates nos lugares em que o noise floor é alto. Isso pode reduzir vazamentos e significa que você não terá barulho em excesso dentro da sua faixa. Um gate no kick drum significa que o áudio não será tocado até atingir um certo volume. Sendo assim, você terá removido qualquer som entre as batidas de kick drum (bumbo).
+Coloque dinâmica. Use compressors e limiters para impeder o som de ficar alto demais. A compressão também pode fazer com que os volumes nas faixas sejam mais consistentes – por exemplo, pode deixar os volumes dos dedilhados de guitarra mais perto uns dos outros.
+Coloque EQ. Existem frequências de EQ que não serão necessárias em certas faixas. Pense nisso como cortar o excesso. As frequências mais baixas podem vazar para o microfone na gravação de pratos; ou seja, elas não são necessárias e podem ser cortadas.
+Finalmente, coloque efeitos espaciais. Coisas como reverb e delay para deixar o som da sua música como é no espaço físico.
+Conclusão
+Essas são algumas técnicas básicas de mixagem. Conforme o tempo for passando, você desenvolverá técnicas mais detalhadas e descobrir seu estilo e ritmo de trabalho. Não é preciso muita prática para entender alguns dos conceitos básicos, como panning e EQ, mas você pode dedicar sua vida toda aprendendo mais coisas sobre mixagem. Novas técnicas e métodos são sempre uma opção, mas o mais importante é saber bem o básico e usá-lo plenamente quando mixar suas músicas.
+
+Finalmente, não tenha medo de experimentar. Você pode quebrar as regras quando decorá-las. Assim que você souber o básico, você pode tentar novas coisas dentro de certos parâmetros para criar um som novo e interessante.
